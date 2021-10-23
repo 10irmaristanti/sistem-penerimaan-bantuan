@@ -22,3 +22,5 @@ if($cek > 0) {
 	echo "<script>alert('Username/password salah!');history.go(-1);</script>";
 }
 ?>
+
+//login
